@@ -63,7 +63,10 @@ article {
 	background-image: url("blogpaper.jpg");
 	padding : 10px;
 }
-
+p {
+	margin-left : 10%;
+	margin-right : 10%;
+}
 img {
 	display: block;
     margin: auto;
